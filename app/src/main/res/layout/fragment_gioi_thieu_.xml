@@ -37,7 +37,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Nguyễn Văn A"
+                    android:text="Đai học Mở "
                     android:textColor="@color/profileAccentColor"
                     android:textSize="20dp"
                     android:paddingTop="5dp"
@@ -160,7 +160,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@color/grey_dam"
-                    android:text="nguyenvanA231@gmail.com"
+                    android:text=""
                     android:textSize="15dp"
                     android:paddingLeft="15dp"/>
             </LinearLayout>
@@ -179,7 +179,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@color/grey_dam"
-                    android:text="0398329434"
+                    android:text=""
                     android:textSize="15dp"
                     android:paddingLeft="15dp"/>
             </LinearLayout>
